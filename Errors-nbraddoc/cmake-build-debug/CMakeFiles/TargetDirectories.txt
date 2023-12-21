@@ -1,0 +1,3 @@
+C:/Users/ninal/OneDrive - University of Vermont/Desktop/Adv. programming/M1/Errors-nbraddoc/cmake-build-debug/CMakeFiles/Errors.dir
+C:/Users/ninal/OneDrive - University of Vermont/Desktop/Adv. programming/M1/Errors-nbraddoc/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ninal/OneDrive - University of Vermont/Desktop/Adv. programming/M1/Errors-nbraddoc/cmake-build-debug/CMakeFiles/rebuild_cache.dir
